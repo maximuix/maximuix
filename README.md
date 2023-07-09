@@ -15,3 +15,7 @@
 ## Follow Me
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-26A4E3?style=for-the-badge&logo=TELEGRAM&logoColor=FFFFFF)](https://t.me/maximuix)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/maximuix)
+
+
+## State 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximuix&show_icons=true&theme=neon)](https://github.com/maximuix)
