@@ -12,4 +12,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7311F6?style=for-the-badge&logo=BOOTSTRAP&logoColor=FFFFFF)
 ![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=GIT&logoColor=F05133)
 
-Follow Me
+## Follow Me
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-26A4E3?style=for-the-badge&logo=TELEGRAM&logoColor=FFFFFF)](https://t.me/maximuix)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/maximuix)
