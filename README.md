@@ -17,7 +17,7 @@
 
 ## ⚙️ Github Statistics 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximuix&show_icons=true&theme=neon)](https://github.com/maximuix)
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximuix&hide_progress=true&theme=holi)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximuix&hide_progress=true&theme=aura)
 
 
 
