@@ -1,6 +1,6 @@
-## Im Frontend developer and UX/UI designer! 
+## 👨‍💻 Im Frontend developer and UX/UI designer! 
 
-## Languages and Tools
+## 💻 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
@@ -10,11 +10,11 @@
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7311F6?style=for-the-badge&logo=BOOTSTRAP&logoColor=FFFFFF)
 ![GIT](https://img.shields.io/badge/GIT-F05133?style=for-the-badge&logo=GIT&logoColor=FFFFFF)
 
-## Follow Me
+## 🤝 Follow Me
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-26A4E3?style=for-the-badge&logo=TELEGRAM&logoColor=FFFFFF)](https://t.me/maximuix)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/maximuix)
 
 
-## Statistics 
+## ⚙️ Github Statistics 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximuix&show_icons=true&theme=neon)](https://github.com/maximuix)
 
